@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- Pymakr tasks file for project TempSensor -->
+<!-- Saved: 2017-03-21, 14:05:33 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{59ff1b32-c7a5-49f1-a753-1e59eb1f5166}">
+    <Summary>TODO:</Summary>
+    <Description></Description>
+    <Created>2017-03-21, 11:05:13</Created>
+    <Resource>
+      <Filename>onewire.py</Filename>
+      <Linenumber>5</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{870bfecd-5c81-421a-a556-b7599bb2a46a}">
+    <Summary>TODO: check CRC of the ROM</Summary>
+    <Description></Description>
+    <Created>2017-03-21, 11:05:13</Created>
+    <Resource>
+      <Filename>onewire.py</Filename>
+      <Linenumber>226</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
